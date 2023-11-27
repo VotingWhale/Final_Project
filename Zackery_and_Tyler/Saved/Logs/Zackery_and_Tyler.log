@@ -1418,3 +1418,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-21.17.41:038][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.11.27-21.17.41:053][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.27-21.19.16:165][410]LogDerivedDataCache: C:/Users/gonzalezz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.040 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 435 files in 730 folders with total size 11 MiB.
+[2023.11.27-21.30.04:917][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-21.30.04:940][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-21.30.04:969][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-21.30.21:930][ 89]Cmd: DELETE
+[2023.11.27-21.30.21:930][ 89]Cmd: ACTOR DELETE
+[2023.11.27-21.30.21:935][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.27-21.30.21:946][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.27-21.30.21:947][ 89]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.11.27-21.30.24:277][291]Cmd: DELETE
+[2023.11.27-21.30.24:277][291]Cmd: ACTOR DELETE
+[2023.11.27-21.30.24:279][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.27-21.30.24:290][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.27-21.30.24:291][291]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.11.27-21.30.28:542][744]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.27-21.30.35:205][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.11.27-21.30.35:206][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.11.27-21.30.35:210][470]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C2A4B70C001_1347552623
+[2023.11.27-21.30.35:215][470]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C2A4B70C001_1347552623
+[2023.11.27-21.31.23:097][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.11.27-21.31.23:108][153]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CN/HQ5GRTE4XEPCCFKGRLKQ9X_Auto1
+[2023.11.27-21.31.23:108][153]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Zackery_and_Tyler/Saved/HQ5GRTE4XEPCCFKGRLKQ9X_Auto19969A3F741665267497F33A5EE5DB3E3.tmp' to 'F:/Unreal Projects/Final_Project/Zackery_and_Tyler/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CN/HQ5GRTE4XEPCCFKGRLKQ9X_Auto1.uasset'
+[2023.11.27-21.31.23:110][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2023.11.27-21.31.23:110][153]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2023.11.27-21.31.35:149][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.11.27-21.31.35:151][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-21.31.35:223][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.27-21.31.35:233][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.27-21.31.35:243][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.27-21.31.35:276][371]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CN/HQ5GRTE4XEPCCFKGRLKQ9X
+[2023.11.27-21.31.35:276][371]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Zackery_and_Tyler/Saved/HQ5GRTE4XEPCCFKGRLKQ9X61DD037B40E662E1D9656E9B869022EB.tmp' to 'F:/Unreal Projects/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CN/HQ5GRTE4XEPCCFKGRLKQ9X.uasset'
+[2023.11.27-21.31.35:322][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 1.94 sec)
+[2023.11.27-21.31.35:326][371]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_A4BB6D4C2A4B70C001_1347552623
+[2023.11.27-21.31.35:326][371]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C2A4B70C001_1347552623
