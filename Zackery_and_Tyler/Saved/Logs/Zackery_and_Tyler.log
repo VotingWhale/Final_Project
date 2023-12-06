@@ -3997,3 +3997,7 @@ UnknownFunction []
 [2023.12.06-06.30.18:694][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2023.12.06-06.30.18:724][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
 [2023.12.06-06.30.18:735][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 2.22 sec)
+[2023.12.06-06.35.23:319][899]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.06-06.35.33:441][926]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.06-06.35.43:643][954]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.06-06.35.53:781][983]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
