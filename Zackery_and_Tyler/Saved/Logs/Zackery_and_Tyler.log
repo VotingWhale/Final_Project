@@ -3510,3 +3510,68 @@ Make sure 'cubeBP' has been compiled for  Get Spline
 [2023.12.06-02.10.37:228][804]AssetCheck: New page: Asset Save: multiple assets
 [2023.12.06-02.10.37:229][804]LogContentValidation: Display: Validating /Game/SplinePathBP.SplinePathBP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SplinePathBP_C_UAID_A4BB6D4C1A6902C301_1921112702
 [2023.12.06-02.10.37:229][804]LogContentValidation: Display: Validating /Game/CubeBP.CubeBP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CubeBP_C_UAID_A4BB6D4C1A6900C301_2010074117
+[2023.12.06-02.13.14:799][ 89]Cmd: DELETE
+[2023.12.06-02.13.14:799][ 89]Cmd: ACTOR DELETE
+[2023.12.06-02.13.14:805][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.06-02.13.14:842][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.06-02.13.14:849][ 89]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.12.06-02.13.38:596][953]Cmd: EDIT COPY
+[2023.12.06-02.13.38:982][973]Cmd: EDIT PASTE
+[2023.12.06-02.13.39:053][973]LogClass: Warning: Short type name "elevator_C_UAID_A4BB6D4C2A4B6CC201_1914343040" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.12.06-02.13.39:063][973]LogClass: Warning: Short type name "elevator_C_UAID_A4BB6D4C2A4B6CC201_1914343040" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.12.06-02.14.31:390][119]LogDerivedDataCache: C:/Users/gonzalezz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.031 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 261 files in 478 folders with total size 9 MiB.
+[2023.12.06-02.14.45:610][262]Cmd: EDIT COPY
+[2023.12.06-02.14.46:091][300]Cmd: EDIT PASTE
+[2023.12.06-02.15.59:207][803]Cmd: EDIT COPY
+[2023.12.06-02.15.59:435][822]Cmd: EDIT PASTE
+[2023.12.06-02.17.03:911][921]Cmd: EDIT COPY
+[2023.12.06-02.17.04:094][936]Cmd: EDIT PASTE
+[2023.12.06-02.18.16:322][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.06-02.18.16:331][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-02.18.16:409][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.06-02.18.16:439][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.06-02.18.16:468][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.06-02.18.16:477][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8G/YP8Q037G2BGSJZB1IKPOQ0
+[2023.12.06-02.18.16:477][604]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Saved/YP8Q037G2BGSJZB1IKPOQ05728B5FC405DC017555FCEB09E4ECCF0.tmp' to 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8G/YP8Q037G2BGSJZB1IKPOQ0.uasset'
+[2023.12.06-02.18.16:483][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1M/1AL5YP68FEKHZR6MNDF40S
+[2023.12.06-02.18.16:483][604]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Saved/1AL5YP68FEKHZR6MNDF40S230D0D6D41D4202B899B4590B189F812.tmp' to 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1M/1AL5YP68FEKHZR6MNDF40S.uasset'
+[2023.12.06-02.18.16:488][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/40/RHENB8G8UUBDFMX2701Z9T
+[2023.12.06-02.18.16:488][604]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Saved/RHENB8G8UUBDFMX2701Z9T8FFAA91E412B8A8639B6E0AAE1D4BDBC.tmp' to 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/40/RHENB8G8UUBDFMX2701Z9T.uasset'
+[2023.12.06-02.18.16:492][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WM/R46CATK64GWPLL3MH3IPGN
+[2023.12.06-02.18.16:492][604]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Saved/R46CATK64GWPLL3MH3IPGNB9CAE67E4C11C055C8183387CDC80F23.tmp' to 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WM/R46CATK64GWPLL3MH3IPGN.uasset'
+[2023.12.06-02.18.16:497][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/K4/4PHKZJ25Y6EZWNCZ6G7ITH
+[2023.12.06-02.18.16:497][604]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Saved/4PHKZJ25Y6EZWNCZ6G7ITHE94B29E44296A9F01136329E0D5AAD6D.tmp' to 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/K4/4PHKZJ25Y6EZWNCZ6G7ITH.uasset'
+[2023.12.06-02.18.16:501][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KF/MFTRZQ1NHNCQJKLUMXTNKM
+[2023.12.06-02.18.16:501][604]LogSavePackage: Moving 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Saved/MFTRZQ1NHNCQJKLUMXTNKMF74C06B848468C045373F5BE23DF9539.tmp' to 'F:/Unreal Projects/Final_Project/Final_Project/Zackery_and_Tyler/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KF/MFTRZQ1NHNCQJKLUMXTNKM.uasset'
+[2023.12.06-02.18.16:559][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 2.74 sec)
+[2023.12.06-02.18.16:567][604]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.06-02.18.16:568][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1A6903C301_2140579661
+[2023.12.06-02.18.16:568][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1A6903C301_2075922660
+[2023.12.06-02.18.16:568][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1A6903C301_2075920659
+[2023.12.06-02.18.16:568][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1A6903C301_2002575658
+[2023.12.06-02.18.16:568][604]LogContentValidation: Display: Validating /Game/CubeBP.CubeBP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CubeBP_C_UAID_A4BB6D4C1A6900C301_2010074117
+[2023.12.06-02.18.16:568][604]LogContentValidation: Display: Validating /Game/elevator.elevator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.elevator_C_UAID_A4BB6D4C1A6903C301_1935466657
